@@ -23,5 +23,3 @@
   <a href = "https://www.instagram.com/gabisindra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/gabrielle-sindra-114694253" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-  <img height="180em" src="https://cdn.discordapp.com/attachments/1189388394015494165/1223005813098938388/download20240304162837.png?ex=661847ec&is=6605d2ec&hm=81125234b25f3bbfae73a1999a93af1f3a8eb256f64427d8d0074464245443d8&"/>

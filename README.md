@@ -1,8 +1,6 @@
 # Olá! Eu sou a Gabrielle Sindra.
 
-- 🔭 Trabalhando como freelancer
-- 🌱 Estuando Python e C
-- 😄 Pronouns: She/Her
+- 
 
  <div>
   <a href="https://github.com/GabrielleSindra">
